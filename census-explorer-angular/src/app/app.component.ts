@@ -6,5 +6,5 @@ import { Component } from '@angular/core';
   styleUrls: ['./app.component.css']
 })
 export class AppComponent {
-  title = 'census-explorer-angular';
+  title = 'Census Learn Explorer - Spring & Angular Application';
 }
